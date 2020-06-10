@@ -1,0 +1,48 @@
+Week 1
+
+
+* What we planned for the period since last work diary entry
+
+  Not applicable 
+  
+* What we finished and what was my contribution
+
+We formed our group. I created a Jira and Github account for the group, and invited all the members. We had a brainstorming
+session after the first tutorial on Tuesday where we came up with some novel ideas for our project. I then created a Google drive
+folder for our team and invited all our members and added the results of the brainstoring session as a google doc on the drive.
+We discussed time for a second meeting and we organized a meeting from 2-4 pm on Satuday, 6th June to discuss and create the 
+user stories for the project. I set up the meeting on Zoom and sent a link to all the members. 
+The meeting lasted from 2pm - 4:30 pm and we discussed the most crucial user stories we were confident that we plan to complete
+in the first few sprints. I facilitated the discussion in the team and created all the stories on Jira. All stories created 
+have a description and acceptance criteria. We also looked at an API we could use - RapidAPI, which Ruby discovered. 
+It seems very useful for getting recipe information based on ingredients and we plan to use it in our project.
+
+
+* What were the main technical and non-technical obstacles and how they were overcome (or what was tried and did not work)
+There were no technical obstacles since we haven't yet started development. The main challenges during this period was deciding
+the specifics of our design and our requirements. We sometimes had disagreements about a particular feature's design or acceptance
+criteria. For example, we were not sure what information we should show on the list of recipes in a contributor's list or list
+of favorite recipes of a recipe explorer. In the end, we examined some of the existing applications and decided as a team that
+adding too much information would clutter the list and decided to only show the name and image of each recipe.
+
+We also had a conflict about whether we should have a primary category for a recipe that a user can decide. Based on our discussion,
+we have decided a primary category is not necessary for our application and it might make the interface more confusing for the
+user since recipe contributors could be inconsistent in what they think is the primary category. We would instead have tags
+for our recipes and contributors can assign multiple tags to a recipe. 
+
+We resolved these and other such conflicts through a team discussion and consensus. Everyone expressed their opinions and justifications
+for their preference. Based on this, the team came to a consensus about what was the best design or way of achieving the story's
+objective. 
+
+* What was not finished, why this happened, how this affects the overall project progress and what adjustments (if any) are 
+needed so the success of the project isnot endangered
+
+We have yet to finish our sprint planning for the first sprint, our storyboards and our system architecure. Our meeting was too
+long and all the team members felt it was best to discuss these details at a later date when we were in a better state of mind.
+I created a whatisgood poll to decide on the time for our next meeting and sent a link on the group chat for a meeting next
+week to finish these deliverables. We don't think it significatnly affects our progress because the project proposal is due in
+week 3, and we plan to finish all these deliverables within 1 or 2 meetings next week. 
+
+- what is planned for the next period (e.g., next week)
+
+Next week, we have planned to finish storyboards and system architecture, so that we can start making the report for week 3.
